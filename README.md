@@ -33,8 +33,8 @@ Welcome to "Back to Eden" by Sergei Vladimirovich Lobachev. This book is availab
     <tr>
       <td>Chinese</td>
       <td>中文</td>
-      <td><a href="chn/Back_to_Eden_zh.md">中文阅读</a></td>
-      <td><a href="chn/Back_to_Eden_zh.txt">下载文本版本</a></td>
+      <td><a href="zh/Back_to_Eden_zh.md">中文阅读</a></td>
+      <td><a href="zh/Back_to_Eden_zh.txt">下载文本版本</a></td>
     </tr>
     <tr>
       <td>Hindi</td>

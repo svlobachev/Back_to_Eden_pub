@@ -21,7 +21,7 @@ Welcome to "Back to Eden" by Sergei Vladimirovich Lobachev. This book is availab
     <tr>
       <td>Russian</td>
       <td>Русский</td>
-      <td><a href="ru/_Back_to_Eden_ru_.md">Читать на русском</a></td>
+      <td><a href="ru/Back_to_Eden_ru_.md">Читать на русском</a></td>
       <td><a href="ru/Back_to_Eden_ru.txt">Скачать текстовую версию</a></td>
     </tr>
     <tr>

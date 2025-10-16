@@ -5,8 +5,6 @@
 روستوف-أون-دون 
 2025 
 
-[تنزيل النسخة النصية للكتاب (Back_to_Eden.txt)](Back_to_Eden.txt) 
-
 <div align="left"> 
   <img src="1760551192.png" alt="Cover" width="500"/> 
 </div> 

@@ -5,8 +5,6 @@
 Rostov-on-Don
 2025
 
-[Download the text version of the book (Back_to_Eden.txt)](Back_to_Eden.txt)
-
 <div align="left">
   <img src="1760551192.png" alt="Cover" width="500"/>
 </div>

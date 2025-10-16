@@ -5,8 +5,6 @@
 Ростов-На-Дону
 2025
 
-[Скачать текстовую версию книги (Back_to_Eden.txt)](Back_to_Eden.txt)
-
 <div align="left">
   <img src="1760551192-fotor-20251015232426.png" alt="Обложка" width="500"/>
 </div>

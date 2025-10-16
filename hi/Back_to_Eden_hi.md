@@ -5,8 +5,6 @@
 रोस्तोव-ऑन-डॉन 
 2025 
 
-[पुस्तक का पाठ संस्करण डाउनलोड करें (Back_to_Eden.txt)](Back_to_Eden.txt) 
-
 <div align="left"> 
   <img src="1760551192.png" alt="कवर" width="500"/> 
 </div> 

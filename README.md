@@ -1,12 +1,73 @@
-# Back to Eden
+# Back to Eden - Multilingual Edition Book
 
-This repository contains the multilingual editions of "Back to Eden" by Sergey Vladimirovich Lobachev.
+Welcome to "Back to Eden" by Sergei Vladimirovich Lobachev. This book is available in multiple languages. Please select your preferred language below:
+
+## Available Languages
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Language</th>
+      <th>Native Name</th>
+      <th>Markdown Version</th>
+      <th>Text Version</th>
+    </tr>
+    <tr>
+      <td>English</td>
+      <td>English</td>
+      <td><a href="en/Back_to_Eden_en.md">Read in English</a></td>
+      <td><a href="en/Back_to_Eden_en.txt">Download Text Version</a></td>
+    </tr>
+    <tr>
+      <td>Russian</td>
+      <td>Русский</td>
+      <td><a href="ru/Back_to_Eden.md">Читать на русском</a></td>
+      <td><a href="ru/Back_to_Eden.txt">Скачать текстовую версию</a></td>
+    </tr>
+    <tr>
+      <td>Arabic</td>
+      <td>العربية</td>
+      <td><a href="ar/Back_to_Eden_ar.md">اقرأ باللغة العربية</a></td>
+      <td><a href="ar/Back_to_Eden_ar.txt">تنزيل النسخة النصية</a></td>
+    </tr>
+    <tr>
+      <td>Chinese</td>
+      <td>中文</td>
+      <td><a href="chn/Back_to_Eden_zh.md">中文阅读</a></td>
+      <td><a href="chn/Back_to_Eden_zh.txt">下载文本版本</a></td>
+    </tr>
+    <tr>
+      <td>Hindi</td>
+      <td>हिन्दी</td>
+      <td><a href="hi/Back_to_Eden_hi.md">हिंदी में पढ़ें</a></td>
+      <td><a href="hi/Back_to_Eden_hi.txt">पाठ संस्करण डाउनलोड करें</a></td>
+    </tr>
+  </table>
+</div>
+
+## Book Cover
+
+<div align="center">
+  <img src="en/1760551192.png" alt="Book Cover" width="500"/>
+</div>
 
 ## About the Book
 
-"Back to Eden" is a comprehensive exploration of parasitic thinking in modern society. The book examines how this phenomenon manifests in various aspects of human life, including personal relationships, politics, economics, and international relations.
+"Back to Eden" explores the concept of parasitic thinking in modern society and its impact on human relationships, politics, economics, and culture. The book examines how parasitic thinking manifests in various aspects of life and provides insights on how to recognize and counteract it.
 
-The central theme revolves around the concept of "parasitic thinking" - a system of views and behavioral patterns where individuals or groups consider other people exclusively as resources for satisfying their own needs, ignoring their rights, interests, and well-being.
+## About the Author
+
+**Sergei Vladimirovich Lobachev** is a Russian author and researcher who focuses on social psychology and human behavior. His work examines the hidden patterns that influence society and individual relationships.
+
+Rostov-on-Don, 2025
+
+---
+*Note: This document serves as a navigation hub to access the book in different languages. Please select your preferred language from the table above.*
+
+# Back to Eden
+
+This repository contains the multilingual editions of "Back to Eden" by Sergei Vladimirovich Lobachev.
+
 
 ## Available Languages
 
@@ -17,9 +78,6 @@ The book is available in the following languages:
 - Chinese (chn/)
 - Hindi (hi/)
 
-## Navigation
-
-To access the book in your preferred language, please refer to the [LANGUAGE_SELECTOR.md](LANGUAGE_SELECTOR.md) file, which provides links to all available versions.
 
 ## Contents
 
@@ -28,10 +86,6 @@ Each language directory contains:
 - A plain text version of the book (`.txt` file)
 - Book cover image
 
-## Author
-
-**Sergey Vladimirovich Lobachev**
-Rostov-on-Don, 2025
 
 ---
 *This project maintains bilingual documentation with 'ru' and 'en' directories under the root for Russian and English versions respectively, as well as additional languages.*

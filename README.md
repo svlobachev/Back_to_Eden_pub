@@ -69,6 +69,7 @@ Rostov-on-Don, 2025
 This repository contains the multilingual editions of "Back to Eden" by Sergei Vladimirovich Lobachev.
 
 
+
 ## Available Languages
 
 The book is available in the following languages:

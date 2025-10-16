@@ -76,7 +76,7 @@ The book is available in the following languages:
 - English (en/)
 - Russian (ru/)
 - Arabic (ar/)
-- Chinese (chn/)
+- Chinese (zh/)
 - Hindi (hi/)
 
 
@@ -86,7 +86,3 @@ Each language directory contains:
 - A Markdown version of the book (`.md` file)
 - A plain text version of the book (`.txt` file)
 - Book cover image
-
-
----
-*This project maintains bilingual documentation with 'ru' and 'en' directories under the root for Russian and English versions respectively, as well as additional languages.*

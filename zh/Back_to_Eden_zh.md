@@ -5,7 +5,7 @@
 顿河畔罗斯托夫
 2025
 
-[下载本书的文本版本 (Back_to_Eden.txt)](Back_to_Eden.txt)
+[下载本书的文本版本 (Back_to_Eden_zh.txt)](Back_to_Eden.txt)
 
 <div align="left">
   <img src="1760551192.png" alt="封面" width="500"/>

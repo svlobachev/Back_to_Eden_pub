@@ -1,199 +1,201 @@
-
-
-
+#### existing code ...
 BACK TO EDEN
 
-Lobachev Sergei Vladimirovich
+Lobachev Sergey Vladimirovich
 
-Rostov-on-Don
+Rostov-On-Don
 2025
 
 
-Table of contents
+Table of Contents
 
 1. Introduction
 
-2. Parasitic thinking
-   2.1 General presentation
-   2.2 Theoretical basis
-   2.3 Causes of occurrence
-   2.4 Forms of manifestation
-   2.5 Impact on victims
-   2.6 Impact on carriers
-   2.7 Countermeasure
+2. Parasitic Thinking
+   2.1 General Overview
+   2.2 Theoretical Foundations
+   2.3 Causes of Emergence
+   2.4 Forms of Manifestation
+   2.5 Impact on Victims
+   2.6 Impact on Carriers
+   2.7 Counteraction
    2.8 Diagnostics
-   2.9 Treatment and correction
+   2.9 Treatment and Correction
 
-3. Colonialism and parasitic thinking
-   3.1 General presentation
-   3.2 Historical context
-   3.3 Mechanisms of colonial influence and the formation of parasitic thinking
-   3.4 Parasitic thinking in colonial societies
-   3.5 Consequences of colonialism from the point of view of parasitic thinking
-   3.6 Modern manifestations of colonial thinking and parasitic consciousness
-   3.7 Counteracting colonial influence and parasitic thinking
-   3.8 Formation of antiparasitic consciousness
-   3.9 Ways to Free Yourself from Parasitic Thinking
-   3.10 Examples of overcoming colonial and parasitic thinking
+3. Colonialism and Parasitic Thinking
+   3.1 General Overview
+   3.2 Historical Context
+   3.3 Mechanisms of Colonial Influence and Formation of Parasitic Thinking
+   3.4 Parasitic Thinking in Colonial Societies
+   3.5 Consequences of Colonialism from the Perspective of Parasitic Thinking
+   3.6 Modern Manifestations of Colonial Thinking and Parasitic Consciousness
+   3.7 Countering Colonial Influence and Parasitic Thinking
+   3.8 Forming Anti-parasitic Consciousness
+   3.9 Paths to Liberation from Parasitic Thinking
+   3.10 Examples of Overcoming Colonial and Parasitic Thinking
 
-4. Color revolutions and parasitic thinking
-   4.1 General presentation
-   4.2 Mechanisms of color revolutions
-   4.3 Examples of color revolutions
-   4.4 Parasitic thinking in the context of color revolutions
-   4.5 The impact of color revolutions on the development of society
-   4.6 Countering the negative aspects of color revolutions
-   4.7 Ways to prevent parasitic influence
+4. Color Revolutions and Parasitic Thinking
+   4.1 General Overview
+   4.2 Mechanisms of Color Revolutions
+   4.3 Examples of Color Revolutions
+   4.4 Parasitic Thinking in the Context of Color Revolutions
+   4.5 Impact of Color Revolutions on Social Development
+   4.6 Countering Negative Aspects of Color Revolutions
+   4.7 Ways to Prevent Parasitic Influence
    4.8 Opportunities for Positive Change
    4.9 Plan
 
-5. Normalization of parasitic thinking
-   5.1 General presentation
-   5.2 Theoretical foundations of normalization of parasitic thinking
-   5.3 Forms and methods of normalizing parasitic thinking
-   5.4 Manifestations of the normalization of parasitic thinking in modern society
-   5.5 Consequences of the normalization of parasitic thinking
-   5.6 Mechanisms to counteract the normalization of parasitic thinking
-   5.7 Ways to overcome the normalization of parasitic thinking
-   5.8 Development Prospects and Further Research
-   5.9 Plan template
+5. Normalization of Parasitic Thinking
+   5.1 General Overview
+   5.2 Theoretical Foundations of Normalization of Parasitic Thinking
+   5.3 Forms and Methods of Normalization of Parasitic Thinking
+   5.4 Manifestations of Normalization of Parasitic Thinking in Modern Society
+   5.5 Consequences of Normalization of Parasitic Thinking
+   5.6 Mechanisms of Countering Normalization of Parasitic Thinking
+   5.7 Ways to Overcome Normalization of Parasitic Thinking
+   5.8 Prospects for Development and Further Research
+   5.9 Template Plan
 
-6. Globalism and parasitic thinking
-   6.1 General presentation
-   6.2 Theoretical foundations of the interaction between globalism and parasitic thinking
-   6.3 Forms of manifestation of parasitic thinking in the context of globalism
-   6.4 Mechanisms for the spread of parasitic thinking through globalization
-   6.5 Consequences of the interaction of globalism and parasitic thinking
-   6.6 Countering parasitic thinking in the context of globalism
-   6.7 Ways to overcome negative aspects of interaction
-   6.8 Development Prospects and Further Research
-   6.9 Plan template
+6. Globalism and Parasitic Thinking
+   6.1 General Overview
+   6.2 Theoretical Foundations of Interaction Between Globalism and Parasitic Thinking
+   6.3 Forms of Manifestation of Parasitic Thinking in Conditions of Globalism
+   6.4 Mechanisms of Spread of Parasitic Thinking Through Globalization
+   6.5 Consequences of Interaction Between Globalism and Parasitic Thinking
+   6.6 Countering Parasitic Thinking in Conditions of Globalism
+   6.7 Ways to Overcome Negative Aspects of Interaction
+   6.8 Prospects for Development and Further Research
+   6.9 Template Plan
 
-7. Military conflicts as a consequence of parasitic thinking
-   7.1 General presentation
-   7.2 Theoretical foundations of military conflicts as consequences of parasitic thinking
-   7.3 Forms and methods of military conflicts as manifestations of parasitic thinking
-   7.4 Manifestations of military conflicts as consequences of parasitic thinking in the modern world
-   7.5 Consequences of military conflicts as manifestations of parasitic thinking
-   7.6 Mechanisms for preventing military conflicts as consequences of parasitic thinking
-   7.7 Ways to overcome the consequences of military conflicts
-   7.8 Development Prospects and Further Research
-   7.9 Plan template
+7. Military Conflicts as a Consequence of Parasitic Thinking
+   7.1 General Overview
+   7.2 Theoretical Foundations of Military Conflicts as a Consequence of Parasitic Thinking
+   7.3 Forms and Methods of Military Conflicts as Manifestations of Parasitic Thinking
+   7.4 Manifestations of Military Conflicts as Consequences of Parasitic Thinking in the Modern World
+   7.5 Consequences of Military Conflicts as Manifestations of Parasitic Thinking
+   7.6 Mechanisms for Preventing Military Conflicts as Consequences of Parasitic Thinking
+   7.7 Ways to Overcome the Consequences of Military Conflicts
+   7.8 Prospects for Development and Further Research
+   7.9 Template Plan
 
-8. Balance as an alternative to parasitic thinking
-   8.1 General presentation
-   8.2 Theoretical foundations of balance as an alternative
-   8.3 Forms and methods of achieving balance
-   8.4 Manifestations of balance in modern society
-   8.5 Benefits of Balance as an Alternative to Parasitic Thinking
-   8.6 Mechanisms for promoting balance in society
-   8.7 Ways to implement the principles of balance
-   8.8 Development Prospects and Further Research
-   8.9 Plan template
+8. Balance as an Alternative to Parasitic Thinking
+   8.1 General Overview
+   8.2 Theoretical Foundations of Balance as an Alternative
+   8.3 Forms and Methods of Achieving Balance
+   8.4 Manifestations of Balance in Modern Society
+   8.5 Advantages of Balance as an Alternative to Parasitic Thinking
+   8.6 Mechanisms for Promoting Balance in Society
+   8.7 Ways to Implement Principles of Balance
+   8.8 Prospects for Development and Further Research
+   8.9 Template Plan
 
-9. The right to fight and use force against organized and individual parasitic thinking to restore balance
-   9.1 General presentation
-   9.2 Theoretical foundations of the right to fight and use force
-   9.3 Forms and methods of combating parasitic thinking
-   9.4 Manifestations of the struggle against parasitic thinking in history
-   9.5 Consequences of the struggle and use of force against parasitic thinking
-   9.6 Mechanisms for legitimizing the struggle and use of force
-   9.7 Ways to regulate and control the use of force
-   9.8 Development Prospects and Further Research
-   9.9 Plan template
+9. Right to Struggle and Use of Force Against Organized and Individual Parasitic Thinking to Restore Balance
+   9.1 General Overview
+   9.2 Theoretical Foundations of the Right to Struggle and Use of Force
+   9.3 Forms and Methods of Struggle Against Parasitic Thinking
+   9.4 Manifestations of Struggle Against Parasitic Thinking in History
+   9.5 Consequences of Struggle and Use of Force Against Parasitic Thinking
+   9.6 Mechanisms for Legitimizing Struggle and Use of Force
+   9.7 Ways to Regulate and Control the Use of Force
+   9.8 Prospects for Development and Further Research
+   9.9 Template Plan
 
 10. Conclusion
 
 1. Introduction
 
-In structuring this book, I decided to structure the narrative so that the main idea would be revealed immediately, and then expanded upon in detail. I wanted the book to be accessible to a wide range of readers: those who prefer a brief summary and those who want a more detailed examination of the subject. Every reader will find something valuable and useful in this book.
+When developing the structure of this book, I decided to construct the narrative so that the main idea would be revealed immediately, and then - in detail. I would like the book to be understandable to different readers: those who prefer a brief summary, and those who want to delve into a detailed examination of the issue. Each reader will find something valuable and useful in the book.
 
-The entire concept of the book can be summed up in a single Chinese proverb: one planet—one humanity—one destiny. This idea reflects the understanding that all of humanity is connected by common problems and prospects. Some readers will immediately grasp the essence of this premise; for them, the book's main ideas will be presented concisely and clearly. Others will want to follow the development of the thought and gain a more complete understanding of the concepts presented; for them, each idea is developed sequentially in subsequent chapters.
+The entire concept of the book can be expressed by one Chinese wisdom: one planet - one humanity - one destiny. This idea reflects the understanding that all humanity is connected by common problems and prospects. Some readers will immediately understand the essence of this position, for them the main ideas of the book will be presented in a brief and clear form. Others will want to trace the development of thought and get a more complete idea of the proposed concepts - for them, each idea is consistently revealed in the following chapters.
 
-I realize that many of my ideas are not new: Fyodor Dostoevsky wrote about something similar, for example, in The Brothers Karamazov and especially in The Idiot. This contradiction between society and the individual living by moral and ethical laws is particularly vividly evident in The Idiot. Dostoevsky deeply considered this question and left it to his descendants: where is the place on this planet for good people? Are they marginalized in society if they do not pursue profit, do not transcend morality, if they strive for values ​​such as love, the common good, honesty, and everything we consider worthy of a person? Why does a kind and moral person end up marginalized and alone in a cruel world that rejects them, destroys them, and seems to tear their soul and real life to pieces from within, giving them no chance for a prosperous existence?
+I understand that in many ways my ideas are not new: F.M. Dostoevsky wrote about something similar, for example, in "The Brothers Karamazov" and especially in the work "The Idiot". This contradiction between society and a person living by the laws of morality and ethics is especially vividly manifested in "The Idiot". F.M. Dostoevsky deeply comprehended this issue and left it to his descendants: where is the place for good people on this planet? Are they marginalized in society if they do not pursue profit, do not step over morality, if they strive for such values as love, general well-being, honesty and everything that we consider worthy of a person? Why does a kind and moral person become a marginal figure and a loner in a harsh world that does not accept him, destroys him and seems to tear his soul apart from the inside, as well as real life into pieces, giving neither a chance for prosperous existence?
 
-The world has changed little since the classics wrote their texts and posed these complex questions. Today, humanity's questions remain the same. Today, as before, conflicts, wars, and tensions between material interests and moral principles arise. In the modern world, economic considerations often prevail over ethical considerations, leading to complex situations where profit is placed above universal human values.
+The world has hardly changed since the days of the classics, when they wrote their texts and raised these difficult questions. Now the questions of humanity remain the same. Today, as before, conflicts, wars, contradictions between material interests and moral principles arise. In the modern world, the economic component often prevails over ethical considerations, which leads to complex situations when achieving profit is put above universal human values.
 
-In this book, we certainly don't claim to offer completely new ideas. We will attempt to take up the questions posed by the old classics—for in many ways, Fyodor Dostoevsky left them unanswered—and we will try to find answers to these complex questions at a new stage of evolution, a new stage of history. We are carrying on the classics' baton, continuing their work, and most importantly, it's not about the baton itself or the competition, but about trying to understand the meaning, to comprehend what is happening to us, what kind of world we live in, and where we are heading. What are the prospects for human development? What can foster progress, and what creates obstacles? We will explore all these questions, left behind by the classics, here.
+In this book, we certainly do not claim absolute novelty of ideas. We will try to take the questions of the old classics, because in many ways F.M. Dostoevsky left them unanswered, and we will try to find answers to these complex questions at a new stage of evolution, at a new stage of history. We continue the relay race of the classics, we continue their cause, and most importantly - the cause is not in the relay race itself or in competition, but in trying to figure out the meaning, realize what is happening to us, in what world we live and where we are moving. What are the prospects for the development of mankind? What can contribute to progress, and what creates obstacles? All these questions left by the classics, we will discuss here.
 
-The central theme of this book is a phenomenon I call "parasitic thinking." By this term, I mean a system of beliefs and behavioral patterns in which an individual or group (including organizations, corporations, or states) views others solely as a resource for satisfying their own needs, ignoring their rights, interests, and well-being. Parasitic thinking manifests itself in the desire to solve one's problems at the expense of others, without compensating for the harm caused or considering the consequences of one's actions on others.
+The central theme of this book is the phenomenon that I call "parasitic thinking". By this term I mean a system of views and behavioral patterns in which an individual or group (including organizations, corporations or states) considers other people exclusively as a resource for satisfying their own needs, ignoring their rights, interests and well-being. Parasitic thinking manifests itself in the desire to solve one's problems at the expense of others, without compensating for the damage caused and without taking into account the consequences of one's actions for others.
 
-For a more accurate understanding of this phenomenon, it is necessary to distinguish between parasitic thinking and other forms of interaction:
-1. Mutually beneficial cooperation - when all parties benefit and understand the terms of interaction
+For a more accurate understanding of this phenomenon, it is necessary to distinguish parasitic thinking from other forms of interaction:
+1. Mutually beneficial cooperation - when all parties benefit and are aware of the terms of interaction
 2. Competition - when participants compete for limited resources within established rules
-3. Exploitation - when one party takes advantage of another with minimal or symbolic compensation
-4. Parasitic thinking - when one party takes advantage of another without any compensation and without taking into account the harm caused
+3. Exploitation - when one party uses another with minimal or symbolic compensation
+4. Parasitic thinking - when one party uses another without any compensation and without taking into account the damage caused
 
-Specific examples of parasitic thinking can be found in various spheres of life. For example, in economics, it manifests itself when transnational corporations shift profits to offshore zones, avoiding taxes in the countries where they source resources and labor. As a result, the budgets of these countries are deprived of funds for infrastructure development and social programs, while corporations continue to profit from the wealth created by society.
+Specific examples of parasitic thinking can be found in different areas of life. For example, in economics, this is manifested when transnational corporations move profits to offshore zones, avoiding paying taxes in countries where they receive resources and labor. As a result, the budgets of these countries do not receive funds for infrastructure development and social programs, and corporations continue to extract benefits from the benefits created by society.
 
-In international relations, parasitic thinking manifests itself when developed countries solve their economic problems at the expense of less developed ones. For example, some African countries mine rare earth metals, essential for electronics production, while the populations of these regions continue to live in poverty, and the environmental situation significantly deteriorates. The profits from the sale of these resources flow to other countries, leaving local populations with problems they did not create.
+In international relations, parasitic thinking is manifested when developed countries solve their economic problems at the expense of less developed ones. For example, some African countries mine rare earth metals needed to produce electronics, while the population of these regions continues to live in poverty, and the environmental situation deteriorates significantly. Profits from the sale of these resources go to other countries, leaving the local population with problems they did not create.
 
-In interpersonal relationships, parasitic thinking can be observed in cases of emotional exploitation, when one partner exploits the other to satisfy their own psychological needs, without regard for their feelings and needs. This can manifest itself in the form of constant criticism, manipulation, or disregard for the partner's interests.
+In interpersonal relationships, parasitic thinking can be observed in cases of emotional trampling, when one partner uses the other to satisfy his psychological needs, without caring about his feelings and needs. This can manifest itself in the form of constant criticism, manipulation, or ignoring the interests of a partner.
 
-The modern world faces certain problems that are difficult to measure with instruments or identify scientifically, but this doesn't mean they don't exist. In fact, these difficulties have real consequences. It could be said that humanity is facing specific developmental challenges that affect the majority of people. These challenges manifest themselves in various spheres of life: from interpersonal conflicts to international crises.
+The modern world faces certain problems that are difficult to measure with instruments or detect with the help of science, but this does not mean that they do not exist. In fact, these difficulties have real consequences. It can be said that humanity faces certain difficulties in development that affect most people. These complexities manifest themselves in various areas of life: from interpersonal conflicts to international crises.
 
-I realize I'm talking about things that are considered ordinary in our society and have nothing to do with problems or negative behavior, but therein lies the complexity of the situation: we accept as normal something that can have negative consequences. Let me offer you a small logical exercise to demonstrate how widespread this phenomenon is and what is actually considered normal. For example, what would you call someone who derives pleasure from causing suffering to other people or animals? The answer is obvious—they're a sadist. But when it comes to harming others for profit, for some reason we can't draw a logical parallel, and it seems right and necessary to us. But the meaning is the same: if someone causes suffering to others in pursuit of profit, then this person exhibits the same traits as a sadist—they profit from the suffering of others, even if it's economic or non-physical. But does that change the essence? This is a simple logical exercise to illustrate what I'm talking about, to demonstrate that sadistic behavior has become practically normal for us. We don't always pay attention to the consequences of our own actions. I see this everywhere, I see how this phenomenon manifests itself in society, and something really needs to be done about it. We need to find ways to address it.
+I understand that I am talking about things that in our society are considered ordinary and have nothing to do with problems or negative behavior, but this is the difficulty of the situation: we accept as normal what can have negative consequences. Allow me to offer you a small logical exercise to show how widespread this phenomenon is and what is actually considered normal. For example, how would you call a person who gets pleasure from causing suffering to other people or animals? The answer is obvious - this is a sadist. But when it comes to causing harm to other people for profit, we somehow cannot draw a logical parallel, and this seems right and necessary to us. And yet the meaning is the same: if someone in pursuit of profit causes suffering to other people, then this person exhibits the same traits as a sadist - he benefits from the suffering of others, even if it is economic or non-physical suffering. But does this change the essence? This is a simple logical exercise to show what I'm talking about, to demonstrate that for us it has practically become normal to actually sadistic behavior. We don't always pay attention to the consequences of our own actions. I see this everywhere, I see how this phenomenon manifests itself in society, and something really needs to be done about it. We must find ways to work with this.
 
-I can imagine some people saying, "Oh, come on, someone made a few extra coins, and someone on the other side certainly won't like it. It's like haggling at a market: someone loses, someone wins. How can you compare that to sadism?" But it's one thing if we're talking about rules, like haggling at a market: both buyer and seller accept these rules and play by them, so the gains and losses are distributed among the participants according to the rules they adhere to, and there's no parasitic behavior. But let me ask you: what if an entire country behaved like this? Imagine it wanted to solve its economic problems—worth billions of dollars—at the expense of another country, simply to find a way to rob and inflict suffering on that population, completely ignoring what they're doing, because it's profitable. Can you say that couldn't happen? Or perhaps you could say this is happening all the time? I'm telling you, it's most likely the latter. This kind of behavior, seemingly innocent, when it affects one or two people, whether it's within a family circle or somewhere else, is already a cause for concern. But if an entire group of society, united in a state, behaves this way, isn't it a problem of global proportions? Don't these events claim more lives than natural disasters? It's worth considering just how widespread this phenomenon is, and yet it can be summed up in just a few words: parasitic thinking.
+I imagine that there are people who will say: "Well, really, someone earned a couple of extra coins, and someone on the other side, of course, will not like it. It's like bargaining at a bazaar: someone is at a loss, someone is at a win. How can this be compared to sadism?" But it's one thing if we're talking about some rules, like trading at a bazaar: both buyer and seller accept these rules and play by them, therefore, benefits and losses are distributed among the participants in accordance with these rules that they adhere to, and there is no parasitic behavior here. But I'll ask you: what if an entire country behaves this way? Imagine that she wants to solve her economic problems - in billions of dollars - at the expense of another country, just to find a way to rob and bring suffering to this population, without thinking at all about what they are doing, because it is profitable. Can you say that this is not possible? Or maybe you can say that this happens all the time? I tell you that most likely it is the second. Such behavior, allegedly innocent, when it concerns one person or two people, when it can be in a family circle or somewhere else, is already a cause for concern. And if an entire group of society, united in a state, behaves this way, isn't this already a problem of global scale? Don't these events take more human lives than natural disasters? It's just worth thinking about how big the scale of this phenomenon is, and it is expressed in just a couple of words - parasitic thinking.
 
-Another important issue I'd like to explore in this book is the right to struggle. Does a person have the right to struggle, to show determination, if they're defending high principles and public welfare? How can we tell which side is right, and who has the right to do so? It's absolutely clear to me that we must strive to overcome this negative phenomenon. This is necessary because humanity doesn't yet fully understand what's happening, doesn't understand the problem, and doesn't understand what exactly needs to be addressed. It's like a complex system in which it's difficult to isolate individual elements, and it's unclear where the main difficulties lie. This is a complex problem, but it nonetheless demands attention and awareness, because understanding the situation is the first step to solving it. If we understand that a problem truly exists, the next step is to find ways to address it, to find approaches to changing the situation. And today, when the problem is insufficiently recognized, when society lacks a clear understanding of this phenomenon, much work remains to be done to analyze the situation and find ways to develop it. Since the issues are still open in society and are still not sufficiently understood, perhaps the time has come to address these issues, understand what is happening to us, and find ways to work with this phenomenon.
+Another important question that I would like to discuss in this book is the right to struggle. Does a person have the right to struggle, to show determination if he protects high principles and public welfare? How to distinguish who is right, who has the right to this? For me, it is completely obvious that we must strive to overcome this negative phenomenon. This is necessary because humanity has not yet fully realized what is happening, does not understand what the problem is and what exactly needs to be worked on. This is like a complex system in which it is difficult to isolate individual elements, and it is unclear where exactly the main difficulties are. This is a complex problem, but nevertheless it requires attention and awareness, because understanding the situation is the first step to solving it. If we understand that the problem really exists, then the next step will be to search for ways to solve this problem, to search for approaches to changing the situation. And today, when the problem is not sufficiently recognized, when there is no clear understanding of this phenomenon in society, there is still a lot of work to analyze the situation and find ways of development. Since questions are still open in society and are still not sufficiently recognized, perhaps it is time to turn to these questions, to figure out what is happening to us, and to find ways to work with this phenomenon.
 
-It's time to conclude this introduction, and I'd like to say that I'm not trying to blame or offend anyone. I'm simply trying to understand what's happening and find ways to improve the situation. If I've piqued your interest, please continue reading—I'll tell you more about what I've outlined here in more detail.
+It's time to finish the introduction, and I would like to say that I'm not trying to blame or offend anyone. I'm just trying to realize what's happening and find ways to improve the situation. If I have interested you, continue reading further - I will tell you more and in detail about what is stated here.
 
-2. Parasitic thinking
+2. Parasitic Thinking
 
-2.1 General presentation
+2.1 General Overview
 
-I propose a closer look at the phenomenon of parasitic thinking. I first noticed manifestations of this type of thinking in interpersonal relationships, especially between men and women. In modern society, unbalanced family relationships are often discussed using fashionable terms like abuse, gaslighting, and others. However, behind these words lies the same parasitic thinking.
+Let's take a closer look at the phenomenon of parasitic thinking. For the first time I noticed manifestations of such thinking in interpersonal relationships, especially between men and women. In modern society, unbalanced family relationships are often discussed, using fashionable terms - abuse, gaslighting and others. However, behind these words lies the same parasitic thinking.
 
-The paradox is that parasitic thinking isn't always aimed at obtaining material wealth. Often, its primary goal is to take over the victim's psyche, mental health, and intelligence. Only then does the parasitic mindset exploit the victim to achieve its own goals.
+The paradox is that parasitic thinking is not always aimed at obtaining material benefits. Often its primary goal is to seize the psyche, mental health and mind of the victim. Only after that does a person with parasitic thinking use the victim to achieve their own goals.
 
-Parasitic thinking is a form of psychological behavior in which a person seeks to gain benefits (material or non-material) at the expense of others without offering anything of value in return. This type of thinking is characterized by a lack of mutually beneficial exchange and a desire to exploit others to satisfy one's own needs, often to the detriment of the victims.
+Parasitic thinking is a form of psychological behavior in which a person strives to gain benefits (material or non-material) at the expense of other people, without offering anything valuable in return. Such thinking is characterized by the absence of mutually beneficial exchange and the desire to use other people to satisfy one's own needs, often to the detriment of the victims.
 
 Diagnostic criteria for parasitic thinking:
-1. The constant expectation of receiving benefits from others without providing adequate compensation.
+1. Constant expectation of gaining benefits from others without providing adequate compensation.
 2. Lack of guilt or responsibility for harm caused to other people.
-3. A tendency to manipulate others to achieve personal goals.
+3. Tendency to manipulate those around to achieve personal goals.
 4. Inability or unwillingness to build mutually beneficial relationships.
-5. The belief that others are obliged to help free of charge.
-6. Using the achievements of others as your own without acknowledging the contributions of others.
+5. Conviction that others are obliged to help free of charge.
+6. Using other people's achievements as one's own without acknowledging the contribution of others.
 7. Tendency to gaslighting and other forms of psychological pressure.
 8. Inability to empathize and understand the experiences of other people.
 
-Various manipulation techniques are used for this, particularly gaslighting. Gaslighting is a form of influence whereby a person is convinced that black is white and white is black. For example, the victim may be convinced that their losses are a path to new energy or some new level.
+Various methods of manipulation are used for this, in particular gaslighting. Gaslighting is a form of impact when people are convinced that black is white and white is black. For example, the victim may be convinced that her losses are a path to new energy or to some new level.
 
-People with a parasitic mindset display considerable creative initiative, devising new methods of influencing victims, new theories, and new methods of persuasion. But the essence remains the same: to parasitize on a person.
+People with parasitic thinking show considerable creative initiative, coming up with new methods of influencing victims, new theories and ways of convincing. But the essence does not change - the goal remains the same: parasitism on a person.
 
-As mentioned above, a person with a parasitic mindset doesn't always pursue material goals. Sometimes, they're interested in psychological aspects. For example, someone with psychological trauma or bruised pride may exploit others to continually boost their self-esteem by humiliating others. Instead of healing their own traumas with psychotherapy, they destroy the psyches of others, solving their own problems at their expense.
+As already mentioned, a person with parasitic thinking does not always pursue material goals. Sometimes his interests are psychological aspects. For example, a person with a psychological trauma or diminished self-esteem can use another person to constantly increase his self-esteem at the expense of humiliating those around him. Instead of treating his traumas with the help of psychotherapy, he destroys the psyche of others, solving his problems at their expense.
 
-With these examples, I want to show that not all problems are related to material values. A person with a parasitic mindset often pursues non-material goals, parasitizing not only on things but also on the psyche of their victims.
+With these examples I want to show that not all problems are related to material values. A person with parasitic thinking often pursues non-material goals, parasitizing not only on things, but also on the psyche of his victims.
 
-A person with a parasitic mindset undergoes a certain personal evolution throughout life. In my observations, the development of this mindset begins in childhood. A child essentially takes everything from their parents without giving anything in return. However, a child's behavior does not reflect parasitic thinking, as they are using the family baton—the natural mechanism by which offspring are raised. Parents selflessly care for their children, and grown children, in turn, do the same for their own children. This is completely normal and has nothing to do with parasitic thinking.
+A person with parasitic thinking goes through a certain personal evolution throughout life. According to my observations, the formation of such thinking begins in childhood. A child, in fact, takes everything from his parents, giving nothing in return. However, the child's behavior is not parasitic thinking, since he uses the ancestral relay - a natural mechanism by which offspring is raised. Parents selflessly care for children, and grown-up children, in turn, do the same for their children. This is absolutely normal and has nothing to do with parasitic thinking.
 
-However, it happens that a person who doesn't understand the essence of the family tree begins to think that everyone owes them everything, that the world owes them something by default. This behavioral pattern becomes ingrained, and as an adult, the person continues to believe that others should do everything for them for free. This is parasitic thinking—a kind of illness caused by insufficient mental maturation. A person can be physically mature but mentally remain a child. When the family tree ends, they seek ways to maintain the familiar way of life, in which everything comes to them for free, and begin to engage in parasitic behavioral patterns.
+However, sometimes a person who does not realize the essence of the ancestral relay begins to think that everything is owed to him, that the world owes him by default. Such a behavior stereotype is reinforced, and, having become an adult, a person continues to believe that those around him should do everything for him for free. This is parasitic thinking - a kind of disease caused by insufficient mental maturity. Physically, a person may be mature, but mentally he remains a child. When the ancestral relay ends, he looks for ways to preserve the familiar way of life in which everything is obtained free of charge, and begins to use parasitic behavior stereotypes.
 
-An adult with a parasitic mindset displays amazing creative abilities, constantly refining their methods, and honing them throughout their life on those around them—at work, in their family, with their children. They cause colossal harm to everyone they come into contact with. The main problem with such a person is that they are unaware of what is happening, unwilling to accept new realities, unwilling to move on to adulthood, and continue to take advantage of everything for free, just as they did in childhood.
+An adult with parasitic thinking shows amazing creative abilities, constantly improves his methods and hones them on those around him throughout his life - at work, in the family, with children. He does tremendous damage to everyone he comes into contact with. The main problem of such a person is that he does not realize what is happening, does not want to accept new life realities, does not strive to move to an adult stage of life and continues to enjoy everything for free, as it was in childhood.
 
-Perhaps psychologists will one day study the phenomenon of parasitic thinking in more detail and explain its mechanisms. In our work, we consider this phenomenon as an accomplished fact and discuss it as something that occurs in society among adults. We'll leave more detailed studies of parasitic thinking to specialists in this field—to psychologists—and we'll move on and consider what happens to an adult who has acquired this behavioral stereotype.
+Perhaps psychologists will someday study the phenomenon of parasitic thinking in more detail and tell how its mechanisms work. In our work, we consider this phenomenon as an accomplished fact and talk about it as a phenomenon that occurs in society among adults. We will leave more detailed research on parasitic thinking to specialists in this industry - psychologists, and we will move on and consider what happens to an adult who has acquired such a behavior stereotype.
 
-Of course, everyone is different: there are many people on the planet with different opportunities, abilities, and life paths. There are people with completely different levels of development, both intellectual and mental. Therefore, parasitic thinking in its most basic form most often lands people in prison—such people become prisoners because they lack thinking or other psychological qualities. Of course, this could be due to childhood trauma or something else, but nevertheless, they are unable to break free from the parasitic paradigm and are unable, at least at a certain stage of life, to adapt to a peaceful existence in society. The logic of such a person is: "Everyone owes me," and they sincerely do not understand why others do not give them what they want. Then they say, "You're not giving me what you owe me; I'll take it myself." When they try to take it by force or stealthily, covertly, it is already a crime, and such a person sooner or later ends up in prison.
+Of course, all people are different: there are many people on the planet with different abilities, abilities and life paths. There are completely different people in terms of the level of development, mental and mental. Therefore, parasitic thinking in its lowest stage most often leads people to prison - such people become prisoners because they lack thinking or other psychological qualities. Of course, these can be childhood traumas or something else, but nevertheless they are unable to get out of the paradigm of parasitic thinking and cannot adapt, at least at a certain stage of life, to peaceful existence in society. The logic of such a person is this: "everyone owes me," and he sincerely does not understand why those around him do not give him what he wants. Then he says: "You don't give me what you owe me, I'll take it myself." When he tries to take it by force or sneakily, secretly - this is already a crime, and such a person sooner or later ends up in prison.
 
-This type of person is understandable, but there are others with higher qualities and intellectual abilities. These people can achieve professional success and even become leaders. The problem with such leaders is that they don't focus on achieving the common good of the team, but instead strive for personal psychological goals, covering up their own traumas, for example, by boosting self-esteem or compensating for narcissistic traumas. Each person can have a whole "bouquet" of individual traumas and abilities that turn them into parasites.
+Everything is clear with this type of people, but there are others - possessing higher qualities and intellectual abilities. These people can realize themselves in a profession and even become leaders. The problem of such leaders is that they do not engage in achieving the general welfare of the collective, but strive for personal psychological goals, close their traumas, for example, increase self-esteem or compensate for narcissistic traumas. Each person may have a whole "bouquet" of individual traumas and abilities that turn him into a parasite.
 
-Sometimes such people become successful businessmen, but they do so not for the sake of social progress, but rather to parasitize on their workforce—that is, on the people who work for them. This is nothing more than a form of exploitation, where the business owner parasitizes on his employees. However, not all businesses cater to parasites, although such ideas may be prevalent in society. There are businesses that sincerely strive to improve society and do not aim to squeeze profits out of people. Such examples exist, and I believe these are the healthiest business models—for example, when the owner donates a portion of the profits to the construction of a school or park. This demonstrates that the business is aimed not only at making a profit but also at creating something positive for society.
+Sometimes such people become successful businessmen, but they engage in business not for the sake of social progress, but for the sake of parasitism on their labor collective, that is, on people who work for them. This is nothing but a form of exploitation, where the owner of the business parasitizes on employees. However, not all businesses serve parasites, although such ideas may prevail in society. There are businesses that sincerely try to improve the life of society and do not set as their goal squeezing profits out of people. Such examples exist, and I believe that these are the healthiest models of business, when, for example, the owner donates part of the profits to build a school or a park. This indicates that the business is aimed not only at making a profit, but also at creating something good in society.
 
-Of course, there are exceptions to every rule, and each individual case may have its own unique set of individual characteristics, traumas, and advantages gained through education and upbringing. Therefore, each case must be considered individually; general conclusions cannot be made for everyone. I simply want to say that there are absolutely healthy examples of leaders and business builders whose businesses are built not on destruction, but on creation.
+Of course, there are no rules without exceptions, and in each specific case there may be its own "bouquet" of individual characteristics, traumas and advantages obtained thanks to education and upbringing. Therefore, each case should be considered individually, you cannot make general conclusions for all people. I just want to say that there are absolutely healthy examples of leaders and business builders, where business is built not on destruction, but on creation.
 
-For example, if someone creates a racketeering group, it's also a business from their perspective, but it's a destructive, parasitic business that has nothing in common with a healthy business that benefits society. Conversely, if someone builds a business, ensures the well-being of their employees, provides vacations, travel packages, access to healthcare, and health care, this indicates that the leader and the business are focused on individuals and groups, and most likely, it's a healthy business that has nothing in common with parasitic thinking.
+For example, if a person creates a grouping engaged in racketeering, this is also business from his point of view, but this is a business of destruction, a parasitic business, which has nothing in common with a healthy business that is useful to society. On the contrary, if a person builds a business, cares about the comfort of employees, provides vacations, vouchers, access to medicine and maintaining health, this indicates that the leader and business are focused on a person and a group of people, and most likely, this is a healthy business that has nothing to do with parasitic thinking.
 
-It would seem that if someone with a parasitic mindset has achieved success in a profession, even if it's just becoming a company manager, it could be considered a success, including a success for society, because they haven't become a criminal element and, in fact, aren't doing anything wrong, living a normal, peaceful life. But this isn't entirely accurate, because someone with a parasitic mindset, occupying certain positions, gains the opportunity to maximize the impact of their parasitic thinking. If they're an ordinary person who hasn't achieved success as a manager and instead simply become a prisoner, they'll certainly harm a few people, but this harm will be significantly less than the harm a manager inflicts on their subordinates day after day, year after year. And if they're a business owner, they regularly siphon off surplus value, and here we can talk about exploitation and parasitism. Such people remain completely legal, but they're essentially committing crimes against the people they're parasitizing. They can cause not only material damage but also psychological damage, which is often so severe that over the years, they become completely mentally ill. Therefore, to assume that a person with a parasitic mindset, having achieved success in a peaceful profession, becoming a manager or something else, stops harming others and that their essence has changed as a result, is absolutely wrong. The essence of such people doesn't change; they simply find ways to legitimize their parasitic thinking in some industry, taking advantage of the imperfections of laws that cannot punish them.
+It would seem that if a person with parasitic thinking has realized himself in some profession, even if he became a manager in a company, it can be said that this is a success, including the success of society, because this person did not become a criminal element and, in general, does not do anything bad, lives an ordinary peaceful life. But this is not entirely true, because a person with parasitic thinking who holds certain positions receives opportunities to increase the effect of his parasitic thinking. If this is an ordinary person who has not realized himself as a leader, but simply became a prisoner in prison, he will certainly harm several people, but this harm will be much less than the harm caused by a leader day after day, year after year to his subordinates. And if this is a business owner, then he regularly takes money from surplus value, and here we can already talk about exploitation and parasitism on the team. Such people remain completely legal, but in fact they commit crimes against the people on whom they parasitize. They can cause not only material but also psychological damage, which often turns out to be so heavy for people that over the years they turn into absolutely mentally ill people. Therefore, to believe that a person with parasitic thinking who has realized himself in a peaceful profession, becoming a leader or someone else, stops harming those around him and his essence has changed from this - this is absolutely wrong. The essence of such people does not change, they just found ways to legitimize their parasitic thinking in some industry, taking advantage of the imperfection of laws that cannot punish them.
 
-Moreover, people with a parasitic mindset may be intelligent enough not to manifest their parasitic tendencies in a crude manner, for example, in a work setting toward their superiors, because it's unprofitable and they don't see it as achieving their goals. For example, if their goal is psychological rather than material parasitism, such people might become teachers and cause psychological harm to children. But since they interact with a large number of people, all their tendencies can be evenly distributed among a large number of people and not appear inappropriate or immoral, although the person may successfully cover up their traumas at the expense of others. Of course, this person is partially beneficial because they have become a professional, received an education, and, say, gone into teaching. But what is the quality of this teacher? Are they abusing children or are they truly teaching? What are their goals? The thing is, such people aren't necessarily teachers—I simply gave this example because it's the profession where people with a parasitic mindset can cause the most harm, since we're talking about children. Such people can be in absolutely any profession, the main thing is that their work allows them access to a large number of people, so they can distribute their psychological problems and realize them on a large number of people.
+In addition, people with parasitic thinking can possess sufficient intelligence not to manifest their parasitic tendencies in a crude form, for example, in a work team in relation to their leaders, because this is unprofitable and they do not see the achievement of their goal in this. Let's say that such people, if their goal is not material parasitism, but psychological, can become teachers and cause mental harm to children. But since they communicate with a large number of people, all their tendencies can be evenly distributed among a large number of people and not look indecent or immoral, although a person can safely close his traumas at the expense of others. Of course, this person partially brings benefits, because after all he became a professional, received education, went, for example, to teaching. But what quality is this teacher? Does he engage in bullying children or does he really teach? What goals does he set for himself? The fact is that such people are not necessarily teachers - I just gave this example, because this is a profession where people with parasitic thinking can do the greatest harm, because we are talking about children. Such people can be in absolutely any professions, the main thing is that their activities allow them to gain access to a large number of people, so that they can distribute their psychological problems and implement them on a large number of people.
 
-Parasitic thinking has become ubiquitous. It's so widespread that it's hard to find anyone who, to one degree or another, doesn't act like one in some aspect of their life. Of course, everyone is different; there are varying degrees of both the disease and the parasitic thinking. Some people may have a pronounced parasitic mindset, others may have a less pronounced one, and some may have a negligible one, so one could say they're almost healthy. But either way, this phenomenon is so widespread in society that it's hard to find anyone who isn't susceptible to it in some way. The problem is that such behavior is now considered the norm, and we don't realize how much we hinder our own development and worsen our own lives and the lives of others by engaging in such behavioral stereotypes, failing to condemn them and accepting them as the norm.
+Parasitic thinking has spread everywhere. This phenomenon is so widespread that it is now difficult to find a person who, to one degree or another or in some aspect of their activities, would not act as a person with parasitic thinking. Of course, all people are different, there are different degrees of both disease and degrees of parasitic thinking. Some people may have strongly expressed parasitic thinking, others have it less pronounced, and some have it insignificantly, so that it can be said that this person is almost healthy. But one way or another, this phenomenon is so widespread in society now that it is difficult to find a person who would somehow not be susceptible to it. The problem is that such behavior is now considered the norm, and we do not realize how much we slow down our development and worsen our lives and the lives of other people, using such behavior stereotypes, not condemning them and perceiving them as a normal way of life.
 
-Non-violent opposition to parasitic thinking
+Non-violent resistance to parasitic thinking
 
+To effectively counter parasitic thinking, it is necessary to apply a comprehensive approach that includes both individual and public measures. At the individual level, it is important to develop the following skills and qualities:
+
+1. Emotional intelligence and empathy - the ability to understand and sympathize with other people.
+2. Self-reflection - regular self-analysis of one's motives and actions.
 To effectively combat parasitic thinking, it's necessary to take a comprehensive approach, encompassing both individual and community-based measures. At the individual level, it's important to develop the following skills and qualities:
 
 1. Emotional intelligence and empathy - the ability to understand and sympathize with other people.

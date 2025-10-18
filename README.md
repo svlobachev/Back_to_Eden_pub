@@ -9,37 +9,31 @@ Welcome to "Back to Eden" by Sergei Vladimirovich Lobachev. This book is availab
     <tr>
       <th>Language</th>
       <th>Native Name</th>
-      <th>Markdown Version</th>
       <th>Text Version</th>
     </tr>
     <tr>
       <td>English</td>
       <td>English</td>
-      <td><a href="en/Back_to_Eden_en.md">Read in English</a></td>
       <td><a href="en/Back_to_Eden_en.txt">Download Text Version</a></td>
     </tr>
     <tr>
       <td>Russian</td>
       <td>Русский</td>
-      <td><a href="ru/Back_to_Eden_ru.md">Читать на русском</a></td>
       <td><a href="ru/Back_to_Eden_ru.txt">Скачать текстовую версию</a></td>
     </tr>
     <tr>
       <td>Arabic</td>
       <td>العربية</td>
-      <td><a href="ar/Back_to_Eden_ar.md">اقرأ باللغة العربية</a></td>
       <td><a href="ar/Back_to_Eden_ar.txt">تنزيل النسخة النصية</a></td>
     </tr>
     <tr>
       <td>Chinese</td>
       <td>中文</td>
-      <td><a href="zh/Back_to_Eden_zh.md">中文阅读</a></td>
       <td><a href="zh/Back_to_Eden_zh.txt">下载文本版本</a></td>
     </tr>
     <tr>
       <td>Hindi</td>
       <td>हिन्दी</td>
-      <td><a href="hi/Back_to_Eden_hi.md">हिंदी में पढ़ें</a></td>
       <td><a href="hi/Back_to_Eden_hi.txt">पाठ संस्करण डाउनलोड करें</a></td>
     </tr>
   </table>
@@ -48,7 +42,7 @@ Welcome to "Back to Eden" by Sergei Vladimirovich Lobachev. This book is availab
 ## Book Cover
 
 <div align="center">
-  <img src="en/1760551192.png" alt="Book Cover" width="500"/>
+  <img src="1760551192.png" alt="Book Cover" width="500"/>
 </div>
 
 ## About the Book
@@ -78,11 +72,3 @@ The book is available in the following languages:
 - Arabic (ar/)
 - Chinese (zh/)
 - Hindi (hi/)
-
-
-## Contents
-
-Each language directory contains:
-- A Markdown version of the book (`.md` file)
-- A plain text version of the book (`.txt` file)
-- Book cover image
